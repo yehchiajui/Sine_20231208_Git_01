@@ -1,0 +1,10 @@
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.csproj.SuggestedBindingRedirects.cache
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.Form1.resources
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.Properties.Resources.resources
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.csproj.GenerateResource.cache
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.csproj.CoreCompileInputs.cache
+C:\C_Sharp_02\Sine_Draw_Try_01\bin\Debug\Sine_Draw_Try_01.exe.config
+C:\C_Sharp_02\Sine_Draw_Try_01\bin\Debug\Sine_Draw_Try_01.exe
+C:\C_Sharp_02\Sine_Draw_Try_01\bin\Debug\Sine_Draw_Try_01.pdb
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.exe
+C:\C_Sharp_02\Sine_Draw_Try_01\obj\Debug\Sine_Draw_Try_01.pdb
